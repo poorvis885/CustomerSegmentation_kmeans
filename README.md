@@ -1,13 +1,13 @@
-Customer Segmentation Using K-Means Clustering
+**Customer Segmentation Using K-Means Clustering**
 
-📌 Overview
+📌 **Overview**
 
 This project performs Customer Segmentation using K-Means Clustering, a popular unsupervised machine learning algorithm. The goal is to group customers based on their spending behavior, allowing businesses to understand different customer segments and target them effectively.
 
-📊 Dataset
+📊 **Dataset**
 
 The dataset used for this project is the Mall Customers Dataset, downloaded via KaggleHub.
-🔗 Dataset Source:
+🔗 **Dataset Source:**
 
 The dataset contains the following features:
 
@@ -20,7 +20,7 @@ Age: Customer's age.
 Annual Income (k$): Customer's annual income in thousand dollars.
 
 Spending Score (1-100): A score assigned based on customer behavior and spending patterns.
-🚀 Project Workflow
+🚀 **Project Workflow**
 
 Dataset Download & Loading
 
@@ -53,15 +53,15 @@ Data Visualization
 A scatter plot is created to visualize different customer segments.
 
 Cluster centroids are highlighted to show the center of each cluster.
-📈 Results
+📈 **Results**
 
 The customers are grouped into different clusters based on their annual income and spending score. Businesses can use these clusters for targeted marketing strategies.
 
-✨ Visualization Example
+✨ **Visualization Example**
 
 Scatter plot showing different customer clusters with centroids.
 
-🎯 Key Takeaways
+🎯 **Key Takeaways**
 
 K-Means Clustering effectively segments customers based on spending patterns.
 
@@ -70,5 +70,6 @@ Elbow Method helps determine the optimal number of clusters.
 Data visualization is crucial to understand cluster distribution.
 📢 Contributing
 
-Feel free to fork this repository and make improvements! Pull requests are welcome. 😊
-💡 Want to contribute? Feel free to fork, star ⭐, and raise issues! 🔗 Connect with me: https://www.linkedin.com/in/poorvi-shrivastava-4a34a9256/
+**Feel free to fork this repository and make improvements! Pull requests are welcome. 😊
+💡 Want to contribute? Feel free to fork, star ⭐, and raise issues!** 
+🔗 Connect with me: https://www.linkedin.com/in/poorvi-shrivastava-4a34a9256/
