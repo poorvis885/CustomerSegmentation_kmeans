@@ -53,6 +53,8 @@ Data Visualization
 A scatter plot is created to visualize different customer segments.
 
 Cluster centroids are highlighted to show the center of each cluster.
+
+
 📈 **Results**
 
 The customers are grouped into different clusters based on their annual income and spending score. Businesses can use these clusters for targeted marketing strategies.
